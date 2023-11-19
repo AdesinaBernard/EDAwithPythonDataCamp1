@@ -37,3 +37,4 @@ sns.kdeplot(data=divorce, x='marriage_duration', hue='num_kids', cut=0, cumulati
 plt.show()
 
 #My first commit via pychrm
+print(divorce.head(10))
