@@ -38,3 +38,5 @@ plt.show()
 
 #My first commit via pychrm
 print(divorce.head(10))
+print(divorce.tail())
+print(divorce.describe())
